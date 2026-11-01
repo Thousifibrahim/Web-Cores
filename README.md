@@ -1,29 +1,25 @@
-# My R-N-D
+# Experimental
 
-Simple Resources & UI Experimental Project — a place to practice and showcase UI experiments and small resources.
-#
+An Experiemental UI Page where I practice and showcase my experiments and ideas.
 
-### About
-This repository is a lightweight playground for UI ideas and resource examples. It focuses on simple, practical experiments built with HTML, CSS, and a bit of JavaScript.
-#
+## Overview
 
-### Technologies
-- HTML — 89.3%
-- CSS  — 9.3%
-- JavaScript — 1.4%
-#
-### Features
-- Small UI experiments and components
-- Resource links and demo pages
-- Easy to browse and extend
-#
-### How to use
-1. Clone the repo:
-   git clone (https://github.com/Thousifibrahim/Experimental)
-2. Open `index.html` in your browser (or use a static server).
-#
-### Contributing
-Feel free to open issues or submit pull requests with improvements or new experiments.
-#
-### Contact
-GitHub: [@Thousifibrahim](https://github.com/Thousifibrahim)
+This repository contains the source code and supporting files for **Experimental**.
+
+## Getting started
+
+```bash
+git clone https://github.com/Thousifibrahim/Experimental.git
+cd Experimental
+```
+
+Check the repository files for the project-specific entry point and setup requirements. Do not commit credentials, API keys, or private configuration files.
+
+## Project links
+
+- [Source code](https://github.com/Thousifibrahim/Experimental)
+- [Issues and discussions](https://github.com/Thousifibrahim/Experimental/issues)
+
+## License
+
+See the repository's `LICENSE` file, when present.
